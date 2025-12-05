@@ -96,14 +96,15 @@ Aligned with:
 
 ```
 Botium-Toys-Internal-Security-Audit/
-│
-├── 01_Scope_Goals_Risk_Assessment.pdf
-├── 02_Control_Categories.pdf
-├── 03_Controls_and_Compliance_Checklist_Blank.pdf
-├── 04_Controls_and_Compliance_Checklist_Completed.pdf
-│
+├── Documents/
+│   ├── 01_Scope_Goals_Risk_Assessment.pdf
+│   ├── 02_Control_Categories.pdf
+│   ├── 03_Controls_and_Compliance_Checklist_Blank.pdf
+│   └── 04_Controls_and_Compliance_Checklist_Completed.pdf
+│ 
 ├── LICENCE
-└── README.md 
+└── README.md
+
 ```
 
 ---
